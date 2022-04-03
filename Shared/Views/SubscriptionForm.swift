@@ -27,6 +27,6 @@ struct SubscriptionForm: View {
 struct SubscriptionForm_Previews: PreviewProvider {
     static var previews: some View {
         SubscriptionForm()
-            .previewLayout(.sizeThatFits)
+            .previewLayout(.fixed(width: 300, height: 150))
     }
 }

@@ -11,9 +11,14 @@ struct ContentView: View {
     var body: some View {
         ZStack {
             Color.white
-            VStack {
+            VStack(spacing: 30) {
                 Title()
                 SubscriptionForm()
+                Spacer()
+                    .frame(height: 50)
+                Dashboard()
+                Spacer()
+                    .frame(height: 50)
             }
             .padding(30)
         }
