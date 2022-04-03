@@ -18,6 +18,7 @@
 		907CC9AF27FA639C0058600D /* NotificationButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 907CC9AE27FA639C0058600D /* NotificationButton.swift */; };
 		907CC9B127FA64A60058600D /* CustomTextFieldStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 907CC9B027FA64A60058600D /* CustomTextFieldStyle.swift */; };
 		907CC9B327FA66A40058600D /* Dashboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 907CC9B227FA66A40058600D /* Dashboard.swift */; };
+		907CC9B527FA671C0058600D /* SocialMediaLinks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 907CC9B427FA671C0058600D /* SocialMediaLinks.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		907CC9AE27FA639C0058600D /* NotificationButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationButton.swift; sourceTree = "<group>"; };
 		907CC9B027FA64A60058600D /* CustomTextFieldStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextFieldStyle.swift; sourceTree = "<group>"; };
 		907CC9B227FA66A40058600D /* Dashboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dashboard.swift; sourceTree = "<group>"; };
+		907CC9B427FA671C0058600D /* SocialMediaLinks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialMediaLinks.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				907CC9AE27FA639C0058600D /* NotificationButton.swift */,
 				907CC9B027FA64A60058600D /* CustomTextFieldStyle.swift */,
 				907CC9B227FA66A40058600D /* Dashboard.swift */,
+				907CC9B427FA671C0058600D /* SocialMediaLinks.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -220,6 +223,7 @@
 				907CC9B127FA64A60058600D /* CustomTextFieldStyle.swift in Sources */,
 				907CC9AF27FA639C0058600D /* NotificationButton.swift in Sources */,
 				907CC9AD27FA63580058600D /* SubscriptionForm.swift in Sources */,
+				907CC9B527FA671C0058600D /* SocialMediaLinks.swift in Sources */,
 				907CC9B327FA66A40058600D /* Dashboard.swift in Sources */,
 				907CC99927FA60C70058600D /* PingSingleColumnComingSoonPageApp.swift in Sources */,
 			);
