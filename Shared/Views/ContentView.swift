@@ -13,7 +13,9 @@ struct ContentView: View {
             Color.white
             VStack {
                 Title()
+                SubscriptionForm()
             }
+            .padding(30)
         }
     }
 }
