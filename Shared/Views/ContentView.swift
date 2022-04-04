@@ -19,6 +19,7 @@ struct ContentView: View {
                 Dashboard()
                 Spacer()
                     .frame(height: 50)
+                SocialMediaLinks()
             }
             .padding(30)
         }

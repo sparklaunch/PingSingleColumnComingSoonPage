@@ -9,8 +9,10 @@ import SwiftUI
 
 struct SocialMediaLinks: View {
     var body: some View {
-        HStack {
-            
+        HStack(spacing: 12) {
+            SocialMediaLink(socialMedia: "message")
+            SocialMediaLink(socialMedia: "bubble.right")
+            SocialMediaLink(socialMedia: "phone.connection")
         }
     }
 }
@@ -18,5 +20,6 @@ struct SocialMediaLinks: View {
 struct SocialMediaLinks_Previews: PreviewProvider {
     static var previews: some View {
         SocialMediaLinks()
+            .previewLayout(.sizeThatFits)
     }
 }
