@@ -14,12 +14,14 @@ struct ContentView: View {
             VStack(spacing: 30) {
                 Title()
                 SubscriptionForm()
+                    .padding(.horizontal, 30)
                 Spacer()
                     .frame(height: 50)
                 Dashboard()
                 Spacer()
                     .frame(height: 50)
                 SocialMediaLinks()
+                Footer()
             }
             .padding(30)
         }

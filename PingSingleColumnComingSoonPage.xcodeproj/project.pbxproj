@@ -20,6 +20,7 @@
 		907CC9B327FA66A40058600D /* Dashboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 907CC9B227FA66A40058600D /* Dashboard.swift */; };
 		907CC9B527FA671C0058600D /* SocialMediaLinks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 907CC9B427FA671C0058600D /* SocialMediaLinks.swift */; };
 		907CC9B727FA6BC20058600D /* SocialMediaLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 907CC9B627FA6BC20058600D /* SocialMediaLink.swift */; };
+		907CC9B927FA6D0C0058600D /* Footer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 907CC9B827FA6D0C0058600D /* Footer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		907CC9B227FA66A40058600D /* Dashboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dashboard.swift; sourceTree = "<group>"; };
 		907CC9B427FA671C0058600D /* SocialMediaLinks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialMediaLinks.swift; sourceTree = "<group>"; };
 		907CC9B627FA6BC20058600D /* SocialMediaLink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialMediaLink.swift; sourceTree = "<group>"; };
+		907CC9B827FA6D0C0058600D /* Footer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Footer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				907CC9B227FA66A40058600D /* Dashboard.swift */,
 				907CC9B427FA671C0058600D /* SocialMediaLinks.swift */,
 				907CC9B627FA6BC20058600D /* SocialMediaLink.swift */,
+				907CC9B827FA6D0C0058600D /* Footer.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -225,6 +228,7 @@
 				907CC9B727FA6BC20058600D /* SocialMediaLink.swift in Sources */,
 				907CC9AB27FA624A0058600D /* Title.swift in Sources */,
 				907CC9B127FA64A60058600D /* CustomTextFieldStyle.swift in Sources */,
+				907CC9B927FA6D0C0058600D /* Footer.swift in Sources */,
 				907CC9AF27FA639C0058600D /* NotificationButton.swift in Sources */,
 				907CC9AD27FA63580058600D /* SubscriptionForm.swift in Sources */,
 				907CC9B527FA671C0058600D /* SocialMediaLinks.swift in Sources */,
